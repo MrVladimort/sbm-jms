@@ -1,0 +1,5 @@
+#vromero/activemq-artemis:latest docker container
+spring:
+  artemis:
+    user: artemis
+    password: simetraehcapa
